@@ -2,5 +2,7 @@ commit tag test
 commit tag test2
 
 tag and pullreqest test
-
 only tag commit test
+
+
+squash merge test1
