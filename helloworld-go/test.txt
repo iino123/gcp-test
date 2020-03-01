@@ -6,3 +6,4 @@ only tag commit test
 
 
 squash merge test1
+squash merge test2
